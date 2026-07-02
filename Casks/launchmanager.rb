@@ -1,6 +1,6 @@
 cask "launchmanager" do
-  version "1.5.1"
-  sha256 "8dcb73992fa31f0cf1d90867884f7e03c8eafddd8f806eb34d553234fdfc88d5"
+  version "1.6.0"
+  sha256 "6080f151976365d5ac304f90e3704599f7fc5e7abad7d4480a46cf4c2658e5e4"
 
   url "https://github.com/Sean10000/LaunchManager/releases/download/v#{version}/LaunchManager.dmg"
   name "LaunchManager"
